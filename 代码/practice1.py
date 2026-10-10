@@ -1,0 +1,1 @@
+/home/wsb/python/practice/practice1.py
